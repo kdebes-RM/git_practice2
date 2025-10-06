@@ -1,4 +1,6 @@
 Hello!
 Update 1
 Change 2
-Bug Fixx.
+Bug Fix.
+Add a new change on cool feature branch
+Added new cool feature.
